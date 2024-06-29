@@ -1,7 +1,7 @@
 <div> 
   <a href="https://github.com/Medupl">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=marcus-valmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-valmeida&layout=compact&langs_count=16&theme=dracula"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Medupl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medupl&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/marcus-vinicius-b994a9247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_vini1._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:marcusvinicius23415@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcus-vini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/medu_pl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:marcosedupl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
