@@ -1,6 +1,6 @@
 <div> 
   <a href="https://github.com/Medupl">
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Medupl&show_icons=true&theme=dracula&hide=contribs,issues"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Medupl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medupl&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
