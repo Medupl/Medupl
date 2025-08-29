@@ -14,7 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "40" height = "40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width = "40" height = "40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" width = "40" height = "40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "40" height = "40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" width = "40" height = "40" alt="SystemVerilog"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/riscv/riscv-original.svg" width = "40" height = "40" alt="RISC-V Assembly"/>
   
   
 </div>
