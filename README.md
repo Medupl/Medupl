@@ -1,9 +1,4 @@
-<div align="center">
-  <a href="https://github.com/Medupl">
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=Medupl&show_icons=true&theme=dracula&hide=contribs,issues&cache_seconds=86400" alt="GitHub Stats" />
-    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medupl&layout=compact&langs_count=16&theme=dracula&cache_seconds=86400" alt="Top Languages" />
-  </a>
-</div>
+[![Marcus's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Medupl&theme=github_dark)](https://github.com/Medupl)
 
 <h2 align="center">📚 Estudando...</h2>
 
